@@ -1,0 +1,2 @@
+armpi_fpv:armpi_fpv_bringup:armpi_fpv_moveit_config:asr_control:face_detect:hiwonder_servo_controllers:hiwonder_servo_driver:hiwonder_servo_msgs:lab_config:object_pallezting:object_sorting:object_tracking:sensor:warehouse
+-DCATKIN_DEVEL_PREFIX=/home/wrx/armpi_fpv/devel -DCMAKE_INSTALL_PREFIX=/home/wrx/armpi_fpv/install -G Unix Makefiles
